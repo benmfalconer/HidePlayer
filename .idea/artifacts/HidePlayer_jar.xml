@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HidePlayer:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="HidePlayer.jar">
+      <element id="module-output" name="HidePlayer" />
+    </root>
+  </artifact>
+</component>

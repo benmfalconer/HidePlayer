@@ -1,0 +1,7 @@
+name: HidePlayer
+version: 1
+main: com.hideplayer.HidePlayer
+commands:
+  hideplayer:
+    description: Hides a player
+    usage: /<command> [playername]
